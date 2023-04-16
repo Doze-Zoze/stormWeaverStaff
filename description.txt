@@ -1,0 +1,26 @@
+Storm Weaver fans unite!
+
+Adds a Storm Weaver familiar, summon weapon, rogue weapon, and armor.
+
+The familiar can be given the following to change it's armor:
+Worm - No armor
+Scoria Bar - Hydrothermic Armor
+Armored Shell - Storm Weaver Armor
+Cosmilite Bar - God Slayer Armor
+Auric Bar - Auric Armor
+Exo Prism - Thanatos Armor
+Miracle Matter - Miracle Armor
+
+The familiar can be fed Blasphemous Donuts; and when fed will boost defense and life regeneration.
+
+When the familiar is in Storm Weaver, God Slayer, or Auric Armor; it can craft you the Weaver armor set with the following materials:
+2 stormlion mandibles - Mandible Replica (Helmet)
+10 cloth - Woven Sweater (Chestplate)
+1 Mechanica Worm - Prostetic Tail (Leggings).
+
+Additionaly, the following armor piece may be crafted:
+1 Rock - Weaver's Sweater (Chestplate)
+
+The rogue weapon and summon weapon are both craftable, with armored shell as one of the ingredients.
+
+Artificer Tempest minion sprited by Everquartz

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>stormWeaverStaff</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Items\TerraEdge.png" />
+    <None Remove="Items\TerraEdgeBeam.png" />
+    <None Remove="Items\TerraEdgeSwordProj.png" />
+    <None Remove="Items\ThantosItems.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Items\ThantosItems.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CalamityMod">
+      <HintPath>..\..\..\..\..\..\Desktop\desk4\tmlPatcher\CalamityMod\CalamityMod.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
